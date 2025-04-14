@@ -1,0 +1,225 @@
+university_name,founded_year,course_name,language,mode,fee_domestic,fee_international
+Western Caspian University,1991,Accounting,English,Full-time,2500.0,4590.0
+Western Caspian University,1991,Administration,English,Full-time,2100.0,4590.0
+Western Caspian University,1991,Biology,English,Full-time,2700.0,4590.0
+Western Caspian University,1991,Business,English,Full-time,2101.0,4590.0
+Western Caspian University,1991,Design,English,Full-time,2101.0,4590.0
+Western Caspian University,1991,Ecology,English,Full-time,2101.0,4590.0
+Western Caspian University,1991,Economics,English,Full-time,2101.0,4590.0
+Western Caspian University,1991,Engineering,English,Full-time,2101.0,4590.0
+Western Caspian University,1991,Finance and Banking,English,Full-time,2101.0,4590.0
+Western Caspian University,1991,History,English,Full-time,3100.0,4590.0
+Western Caspian University,1991,Hospitality,English,Full-time,2101.0,4590.0
+Western Caspian University,1991,Humanities,English,Full-time,2101.0,3740.0
+Western Caspian University,1991,IT,English,Full-time,2101.0,4590.0
+Western Caspian University,1991,International Relations,English,Full-time,2101.0,4590.0
+Western Caspian University,1991,Management,English,Full-time,2800.0,4590.0
+Western Caspian University,1991,Marketing,English,Full-time,2500.0,4590.0
+Western Caspian University,1991,Philology,English,Full-time,2500.0,4590.0
+Western Caspian University,1991,Philosophy,English,Full-time,2600.0,4590.0
+Western Caspian University,1991,Political Science,Bosnian,Full-time,3100.0,3400.0
+Western Caspian University,1991,Technology,English,Full-time,2100.0,4590.0
+Western Caspian University,1991,Business,English,Full-time,2100.0,4590.0
+Western Caspian University,1991,Computer Science,English,Full-time,2200.0,4590.0
+Western Caspian University,1991,Design,English,Full-time,2500.0,4590.0
+Western Caspian University,1991,Ecology,English,Full-time,2100.0,4590.0
+Western Caspian University,1991,Economics,English,Full-time,2000.0,4590.0
+Western Caspian University,1991,Finance and Banking,English,Full-time,2000.0,3400.0
+Western Caspian University,1991,International Relations,English,Full-time,2200.0,3400.0
+Western Caspian University,1991,Management,English,Full-time,2000.0,4590.0
+Western Caspian University,1991,Philology,English,Full-time,2300.0,4590.0
+Western Caspian University,1991,Psychology,English,Full-time,2300.0,4590.0
+Western Caspian University,1991,Technology,English,Full-time,2200.0,4590.0
+Western Caspian University,1991,Tourism,English,Full-time,2200.0,4590.0
+Western Caspian University,1991,Economics,English,Full-time,1000.0,5100.0
+Western Caspian University,1991,Logistics,English,Full-time,1700.0,3000.0
+Western Caspian University,1991,Philology,English,Full-time,3162.0,5100.0
+Western Caspian University,1991,Physics,English,Full-time,1000.0,5100.0
+Western Caspian University,1991,Political Science,English,Full-time,1000.0,5100.0
+Western Caspian University,1991,Technology,English,Full-time,1000.0,5100.0
+Azerbaijan Technical University,1950,Business,Azerbaijani,Full-time,2100.0,2465.0
+Azerbaijan Technical University,1950,Computer Science,Azerbaijani,Full-time,2100.0,2465.0
+Azerbaijan Technical University,1950,Ecology,Azerbaijani,Full-time,2000.0,2465.0
+Azerbaijan Technical University,1950,Economics,Azerbaijani,Full-time,2100.0,2465.0
+Azerbaijan Technical University,1950,Engineering,Azerbaijani,Full-time,2000.0,2465.0
+Azerbaijan Technical University,1950,IT,Russian,Full-time,2100.0,2465.0
+Azerbaijan Technical University,1950,Management,Azerbaijani,Full-time,2100.0,2465.0
+Azerbaijan Technical University,1950,Marketing,Azerbaijani,Full-time,2100.0,2465.0
+Azerbaijan Technical University,1950,Security,Azerbaijani,Full-time,2100.0,2465.0
+Azerbaijan Technical University,1950,Transportation,Azerbaijani,Full-time,2000.0,2465.0
+Azerbaijan Technical University,1950,Business,Azerbaijani,Full-time,2500.0,4250.0
+Azerbaijan Technical University,1950,Computer Science,Azerbaijani,Full-time,2200.0,2465.0
+Azerbaijan Technical University,1950,IT,Azerbaijani,Full-time,2200.0,2465.0
+Azerbaijan Technical University,1950,Management,Azerbaijani,Full-time,2200.0,2465.0
+Azerbaijan State Agricultural University,1920,Agriculture,Azerbaijani,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,Biology,Azerbaijani,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,Business,Azerbaijani,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,Ecology,Azerbaijani,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,Economics,English,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,Engineering,Azerbaijani,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,IT,Azerbaijani,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,Management,Azerbaijani,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,Marketing,Azerbaijani,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,Medicine,Azerbaijani,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,Pharmacy,Azerbaijani,Full-time,0.0,4250.0
+Azerbaijan State Agricultural University,1920,Economics,Azerbaijani,Full-time,0.0,4250.0
+Academy of Public Administration,1999,Administration,Azerbaijani,Full-time,1938.0,1938.0
+Academy of Public Administration,1999,Computer Science,Azerbaijani,Full-time,1938.0,1938.0
+Academy of Public Administration,1999,Economics,Azerbaijani,Full-time,1938.0,1938.0
+Academy of Public Administration,1999,International Relations,Azerbaijani,Full-time,1938.0,1938.0
+Academy of Public Administration,1999,Law and Jurisprudence,Azerbaijani,Full-time,1938.0,1938.0
+Academy of Public Administration,1999,Management,Azerbaijani,Full-time,1938.0,1938.0
+Academy of Public Administration,1999,Political Science,Azerbaijani,Full-time,1938.0,1938.0
+Academy of Public Administration,1999,Security,Azerbaijani,Full-time,1938.0,1938.0
+Azerbaijan Architecture and Construction University,1975,Architecture,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Business,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Design,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Ecology,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Economics,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Engineering,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Finance and Banking,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,IT,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Management,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Marketing,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Mathematics,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Technology,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan Architecture and Construction University,1975,Transportation,Azerbaijani,Full-time,3104.0,3104.0
+Azerbaijan State University of Economics UNEC,1930,Accounting,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Administration,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Business,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Design,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Ecology,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Economics,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Engineering,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Finance and Banking,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Hospitality,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,IT,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,International Relations,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Management,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Marketing,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Natural Sciences,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Technology,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Tourism,Azerbaijani,Full-time,3060.0,3060.0
+Azerbaijan State University of Economics UNEC,1930,Environmental Studies,Azerbaijani,Full-time,3060.0,3060.0
+Lankaran State University,1992,Agriculture,Azerbaijani,Full-time,0.0,1700.0
+Lankaran State University,1992,Economics,Azerbaijani,Full-time,1500.0,1700.0
+Lankaran State University,1992,Engineering,Azerbaijani,Full-time,1400.0,1700.0
+Lankaran State University,1992,Humanities,Azerbaijani,Full-time,1300.0,1700.0
+Lankaran State University,1992,Management,Azerbaijani,Full-time,1500.0,1700.0
+Lankaran State University,1992,Mathematics,Azerbaijani,Full-time,1300.0,1700.0
+Lankaran State University,1992,Natural Sciences,Azerbaijani,Part-time,1200.0,1700.0
+Lankaran State University,1992,Agriculture,Azerbaijani,Full-time,1600.0,1700.0
+Lankaran State University,1992,Economics,Azerbaijani,Full-time,1600.0,1700.0
+Lankaran State University,1992,Engineering,Azerbaijani,Full-time,1500.0,1700.0
+Lankaran State University,1992,Humanities,Azerbaijani,Full-time,1500.0,1700.0
+Lankaran State University,1992,Management,Azerbaijani,Full-time,1600.0,1700.0
+Lankaran State University,1992,Mathematics,Azerbaijani,Full-time,1800.0,1700.0
+Lankaran State University,1992,Natural Sciences,Azerbaijani,Full-time,1500.0,1700.0
+Lankaran State University,1992,Economics,Azerbaijani,Full-time,1200.0,1700.0
+Lankaran State University,1992,Engineering,Azerbaijani,Full-time,1200.0,1700.0
+Lankaran State University,1992,Humanities,Azerbaijani,Full-time,1200.0,1700.0
+Lankaran State University,1992,Mathematics,Azerbaijani,Full-time,1200.0,1700.0
+Lankaran State University,1992,Natural Sciences,Azerbaijani,Full-time,1200.0,1700.0
+Nakchivan  University,1999,Accounting,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Computer Science,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Economics,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Education and Teaching,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Finance and Banking,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Hospitality,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,IT,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,International Relations,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Management,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Mathematics,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Philology,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Physical Education,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Sports,Azerbaijani,Full-time,833.0,833.0
+Nakchivan  University,1999,Tourism,Azerbaijani,Full-time,833.0,833.0
+Nakhchivan State University,1967,Accounting,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Agriculture,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Applied Sciences and Professions,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Architecture,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Arts,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Economics,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Education and Teaching,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Engineering,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Environmental Studies,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,History,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Hospitality,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,IT,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,International Relations,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Journalism,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Law and Jurisprudence,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Management,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Mathematics,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Medicine,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Natural Sciences,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Philology,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Physical Education,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Physics,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Sports,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Tourism,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Archeology,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Biology,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,Chemistry,Azerbaijani,Full-time,794.0,794.0
+Nakhchivan State University,1967,PR,Azerbaijani,Full-time,794.0,794.0
+Baku State University,1919,Applied Sciences and Professions,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Archeology,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Biology,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Chemistry,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Computer Science,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Culturology,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Earth Sciences,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Ecology,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Economics,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Education and Teaching,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Engineering,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Environmental Studies,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,History,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Hospitality,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,International Relations,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Journalism,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Law and Jurisprudence,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Management,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Mathematics,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Philology,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Philosophy,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Physics,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Sociology,Azerbaijani,Full-time,3189.0,3189.0
+Baku State University,1919,Tourism,Azerbaijani,Full-time,3189.0,3189.0
+ADA University,2006,Business,Azerbaijani,Full-time,5423.0,5423.0
+ADA University,2006,Computer Science,Azerbaijani,Full-time,5423.0,5423.0
+ADA University,2006,Economics,Azerbaijani,Full-time,5423.0,5423.0
+ADA University,2006,IT,Azerbaijani,Full-time,5423.0,5423.0
+ADA University,2006,International Relations,Azerbaijani,Full-time,5423.0,5423.0
+ADA University,2006,Management,Azerbaijani,Full-time,5423.0,5423.0
+Baku Eurasian University,1992,Economics,Azerbaijani,Full-time,1700.0,1700.0
+Baku Eurasian University,1992,Mathematics,Azerbaijani,Full-time,1700.0,1700.0
+Baku Eurasian University,1992,Philology,Azerbaijani,Full-time,1700.0,1700.0
+Baku Eurasian University,1992,International Relations,Azerbaijani,Full-time,1700.0,1700.0
+Odlar Yurdu University,1995,Accounting,Azerbaijani,Full-time,5100.0,5100.0
+Odlar Yurdu University,1995,Biology,Azerbaijani,Full-time,5100.0,5100.0
+Odlar Yurdu University,1995,Economics,Azerbaijani,Full-time,5100.0,5100.0
+Odlar Yurdu University,1995,Education and Teaching,Azerbaijani,Full-time,5100.0,5100.0
+Odlar Yurdu University,1995,Engineering,Azerbaijani,Full-time,5100.0,5100.0
+Odlar Yurdu University,1995,Finance and Banking,Azerbaijani,Full-time,5100.0,5100.0
+Odlar Yurdu University,1995,International Relations,Azerbaijani,Full-time,5100.0,5100.0
+Odlar Yurdu University,1995,Management,Azerbaijani,Full-time,5100.0,5100.0
+Odlar Yurdu University,1995,Philology,Azerbaijani,Full-time,5100.0,5100.0
+Odlar Yurdu University,1995,Marketing,Azerbaijani,Full-time,5100.0,5100.0
+Azerbaijan University,1991,Accounting,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Applied Sciences and Professions,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Business,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Computer Science,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Economics,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Engineering,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Finance and Banking,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,History,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Humanities,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,IT,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Management,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Marketing,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Mathematics,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,PR,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Philology,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Administration,Azerbaijani,Full-time,2480.0,2480.0
+Azerbaijan University,1991,Philosophy,Azerbaijani,Full-time,2480.0,2480.0
